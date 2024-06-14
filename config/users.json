@@ -1,0 +1,11 @@
+[
+  {
+    "_id": "6541ed518a6991d2ee18a797",
+    "email": "dhiren.rathod@cmarix.com",
+    "password": "$2a$10$viFs5Qqffw0/4LB6OSsPN.mBCTlvyUoXzGm/f19sEOcbuGqEGcH6W",
+    "name": "Dhiren Rathod",
+    "age": 23,
+    "createdAt": "2023-11-01T06:16:49.874Z",
+    "updatedAt": "2023-11-01T06:16:49.874Z"
+  }
+]

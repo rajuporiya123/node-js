@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "6541efba68a73a4a4c6f1e7b",
+    "name": "paracetamol 650mg",
+    "price": 25,
+    "image": "1698820026811-Paracetamol.jpg",
+    "desc": "for fever best medicine",
+    "userId": "6541ed518a6991d2ee18a797",
+    "storeId": "6541ee6e8a6991d2ee18a79b",
+    "createdAt": "2023-11-01T06:27:06.848Z",
+    "updatedAt": "2023-11-01T06:27:06.848Z"
+  },
+  {
+    "_id": "6541f0ec68a73a4a4c6f1e7d",
+    "name": "Dicloflam 50mg Tablet",
+    "price": 30,
+    "image": "1698820332315-Dicloflam.jpg",
+    "desc": "pain relief",
+    "userId": "6541ed518a6991d2ee18a797",
+    "storeId": "6541ee6e8a6991d2ee18a79b",
+    "createdAt": "2023-11-01T06:32:12.318Z",
+    "updatedAt": "2023-11-01T06:32:12.318Z"
+  }
+]
